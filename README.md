@@ -1,3 +1,3 @@
 # Recipes
 
-This project shows basic HTML and CSS recipes for future references. 
+This cookbook holds all secrets about a Leanne-approved meal. 
